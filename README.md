@@ -1,4 +1,4 @@
-<h3 align="center">jeg er 18 år og er fra sortland</h3>
+<h3 align="center">Jeg heter alexandro, er 18 år og er fra sortland</h3>
 
 - 🌱 jeg lærer **c++ og python**
 
